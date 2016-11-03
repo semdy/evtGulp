@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodejs-team/evtGulp.git"
+    "url": "git+https://github.com/semdy/evtGulp.git"
   },
   "keywords": [
     "gulp",
@@ -20,9 +20,9 @@
   "author": "semdy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodejs-team/evtGulp/issues"
+    "url": "https://github.com/semdy/evtGulp/issues"
   },
-  "homepage": "https://github.com/nodejs-team/evtGulp#readme",
+  "homepage": "https://github.com/semdy/evtGulp#readme",
   "dependencies": {},
   "devDependencies": {
     "event-stream": "^3.3.4",
